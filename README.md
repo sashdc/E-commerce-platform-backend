@@ -6,7 +6,7 @@ I have amended te backend of an ecommerce site to have working routes for differ
 
 ## Installation
 
-It requires SWL, Node, and a CLI to work.
+It requires SWL, Node, and a CLI to work. Insomnia ot a similar app will be needed to test it.
 
 ## Usage
 
