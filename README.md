@@ -12,13 +12,13 @@ It requires SWL, Node, and a CLI to work.
 
 The application has a database, modeled tables, and seed data to test the funcitonality and realationships between tables. Routes are available to add, edit, and delete individual and batch categories, products, and tags.
 
-![Screenshot of Testing the app's routes on Insomnia](./assets/images/screenshot.jpg "HR Tracker")
+![Screenshot of Testing the app's routes on Insomnia](./assets/images/screenshot.jpg "Testing the app routes on Insomnia")
 
 ### Links
 
  [Github Repo](https://github.com/sashdc/e-commerce)
  
- [Walkthrough Video](https://drive.google.com/file/d/17J_u0amWWS1mq9HCX-9FMV33-hRGEtl8/view)
+ [Walkthrough Video](https://drive.google.com/file/d/1T-cn4Y_kMd1bctRrU4GUmKmK2X0fuL5M/view)
 
  ## Credits
 
