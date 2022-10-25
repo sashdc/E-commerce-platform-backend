@@ -16,7 +16,7 @@ The application has a database, modeled tables, and seed data to test the funcit
 
 ### Links
 
- [Github Repo](https://github.com/sashdc/e-commerce)
+ [Github Repo](https://github.com/sashdc/E-commerce-platform-backend)
  
  [Walkthrough Video](https://drive.google.com/file/d/1T-cn4Y_kMd1bctRrU4GUmKmK2X0fuL5M/view)
 
