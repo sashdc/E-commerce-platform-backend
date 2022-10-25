@@ -16,7 +16,7 @@ The application has a database, modeled tables, and seed data to test the funcit
 
 ### Links
 
- [Github Repo](https://github.com/sashdc/hr-tracker)
+ [Github Repo](https://github.com/sashdc/e-commerce)
  
  [Walkthrough Video](https://drive.google.com/file/d/17J_u0amWWS1mq9HCX-9FMV33-hRGEtl8/view)
 
